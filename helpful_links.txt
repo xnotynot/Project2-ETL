@@ -1,0 +1,1 @@
+Windows: https://www.accadius.com/using-python-read-windows-event-logs-multiple-servers
