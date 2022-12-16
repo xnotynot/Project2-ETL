@@ -1,1 +1,2 @@
 Windows: https://www.accadius.com/using-python-read-windows-event-logs-multiple-servers
+World cup data: https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-statistics
