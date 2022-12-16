@@ -2,7 +2,7 @@
 
 ## Data Cleanup and Analysis Requirements
 
-* Citing the data sources
+* Data Sources
 
 * Extracting the data from those sources.
 
