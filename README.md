@@ -37,5 +37,5 @@ Goal: To extract and transform FIFA 2022 World Cup Data and load structured data
     - Set proper data types 
 
 * LOAD - Loading the data into a database
- - Load the data into PostGreSql (Teams, Match, Players)
- - Load the stadium data into MongoDB
+    - Load the data into PostGreSql (Teams, Match, Players)
+    - Load the stadium data into MongoDB
