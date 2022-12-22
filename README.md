@@ -2,6 +2,8 @@
 
 Goal: To extract and transform FIFA 2022 World Cup Data and load structured data into PostGreSQL and MongoDB
 
+Team Members: Anand Shankar and Conrad Urffer
+
 ## Data Cleanup and Analysis Requirements
 * Data Sources
     - [FIFA World Cup 2022 Statistics](https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-statistics)
