@@ -44,3 +44,18 @@ Team Members: Anand Shankar and Conrad Urffer
 * LOAD - Loading the data into a database
     - Load the data into PostGreSql (Teams, Match, Players)
     - Load the stadium data into MongoDB
+
+## Snapshot of MongoDB
+
+![Mongo DB Collection to Store Stadium Info](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/mongo_stadium_list.png)
+
+## Snapshot of Postgre SQL Tables
+
+* Match Table
+![Match Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/match_table_postgresql.png)
+
+* Teams Table
+![Teams Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/teams_table_postgresql.png
+
+* Players Table
+![Players Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/player_table_postgresql.png)
