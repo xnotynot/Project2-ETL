@@ -56,7 +56,7 @@ Team Members: Anand Shankar and Conrad Urffer
 ![Match Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/match_table_postgresql.png)
 
 * Teams Table
-![Teams Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/teams_table_postgresql.png
+![Teams Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/teams_table_postgresql.png)
 
 * Players Table
 ![Players Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/player_table_postgresql.png)
