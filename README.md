@@ -3,6 +3,7 @@
 Goal: To extract and transform FIFA 2022 World Cup Data and load structured data into PostGreSQL and MongoDB
 
 Team Members: Anand Shankar and Conrad Urffer
+[Link to the Juypter Notebook](https://github.com/xnotynot/Project2-ETL/blob/main/FIFA_2022_ETL.ipynb)
 
 ## Data Cleanup and Analysis Requirements
 * Data Sources
