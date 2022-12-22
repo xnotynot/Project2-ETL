@@ -60,3 +60,14 @@ Team Members: Anand Shankar and Conrad Urffer
 
 * Players Table
 ![Players Table](https://github.com/xnotynot/Project2-ETL/blob/main/screenshots/player_table_postgresql.png)
+
+# Improvements
+* Automation of Data loads
+    - We could automate the extraction and load into SQL / Mongo DB by converting the static statements into dynamic function calls
+    - The automation can be made possible by making the table name and field names as parameters in a python function which can also accept the database type (PostgreSQL / Oracle / MSSQL / Snowflake) and dynamically create an instance of the database engine from SQL Alchemy and perform further functions
+    - It could also drop any existing tables in the schema and "CREATE" the table dynically based on the dataframe and append rows to it
+
+* Error handling and notification
+    - It would be nice for the data load program to be scheduled as a windows task and log any errors during the data load and send an email at the end of process with a brief statistics of the data load operation
+    - The load program can also have conditional logic to determine the criticality of the errors and have some rudimentary decision making to decide whether to continue data loads after error or abort the process
+
